@@ -1,10 +1,16 @@
 # **Future of food tech Hackathon - Cookr 🍽️**
 
-<img src= "https://play-lh.googleusercontent.com/g_mdQLMa6dQAN0wlJXNwOcJvLU0lY9V5yQzWhgr8lXSR2aFXFCldAsbI9QdcqwQqGHs" height = 200, width = 325>
+<img src= "https://entrackr.com/storage/2023/02/Cookr.jpg" height = 300, width = 850>
 
 ## Problem Statement - 1
 
 **_To Create a model for automatically categorizing items added to the kitchen._**
+
+
+<img src= "https://github.com/prakash2903/Cookr_Hackathon/blob/main/Output/p1_1.PNG" height = 500, width = 425>
+
+<img src= "https://github.com/prakash2903/Cookr_Hackathon/blob/main/Output/p1_2.PNG">
+
 
 ## Problem Statement - 2
 
