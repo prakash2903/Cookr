@@ -1,4 +1,4 @@
-# **Hackathon - Cookr 🍽️**
+
 
 <img src= "https://github.com/prakash2903/Cookr_Hackathon/blob/main/Output/header.PNG" height = 300, width = 850>
 
